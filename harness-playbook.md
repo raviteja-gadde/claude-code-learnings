@@ -1,6 +1,6 @@
 # Claude Code Harness Playbook
 
-Field-tested configuration patterns, pipeline designs, and operational learnings from daily Claude Code use across a multi-repo personal engineering workspace (knowledge base, learning system, investment tools, public projects). This captures what actually changed how sessions work — not configuration reference, but the decisions behind the configuration and the traps that cost hours to find.
+Field-tested configuration patterns, pipeline designs, and operational learnings from daily Claude Code use across a multi-repo personal engineering workspace. This captures what actually changed how sessions work — not configuration reference, but the decisions behind the configuration and the traps that cost hours to find.
 
 **Purpose:** A portable reference for auditing and improving a Claude Code installation on any machine. Each pattern includes the rationale and failure mode that motivated it, so the reader can decide whether it applies to their own setup rather than blindly copying config.
 
